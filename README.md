@@ -22,3 +22,5 @@ The questions we will be trying to answer while looking at this Data Set is:
 <li>How did the donations differ between Democrats and Republicans?</li>
 <li>What were the demographics of the donors?</li>
 <li>Is there a pattern to donation amounts?</li>
+
+<img src="election.png" alt="Analysis">
